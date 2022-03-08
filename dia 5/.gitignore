@@ -1,0 +1,2 @@
+# en el gitignore solamente podemos colocar archivos o carpetas que vamos a ignorar en cada commit desde la creacion del archivo
+entorno_prueba/
