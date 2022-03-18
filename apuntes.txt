@@ -1,0 +1,7 @@
+python -m venv <nombre_entorno>  > crea un entorno virtual en la ubicacion de la terminal
+source <nombre_entorno>/Scripts/activate > levantara entorno virtual (gitbash)
+
+pip install <libreria> instalar libreria
+pip list > lista las librerias en forma de tabla
+pip freeze > lista las librerias pero de una manera mas tecnica
+pip freeze > requirementes.txt > creara
