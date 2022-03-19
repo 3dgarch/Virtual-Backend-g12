@@ -52,4 +52,11 @@ def generar_niveles():
                                    ('%s', '%s', '%s');''' % (seccion, ubicacion, nombre)
 
             print(sql)    
-generar_niveles()                                           
+generar_niveles()    
+
+
+
+def generar_niveles_alumnos():
+    # generar un numero aleatorio que sera el id del alumno y el id del nivel y un anio de manera en la cual no se puede volver a generar ese mismo alumno
+    #con un nivel inferios pero con un anio superior. en total 80 registros
+    pass
